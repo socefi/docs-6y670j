@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-zwkiwb.infinity-qr.it/sitemap.xml
